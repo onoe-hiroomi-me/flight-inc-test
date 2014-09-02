@@ -18,6 +18,7 @@ public class Test {
 		System.out.println("Hello Flight!");
 		System.out.println("Hello Flight!");
 		System.out.println("Hello Flight!");
+		System.out.println("Hello Flight!");
 	}
 	
 }
